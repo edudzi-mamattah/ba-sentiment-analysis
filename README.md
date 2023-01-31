@@ -55,7 +55,7 @@ This involved clustering the most similar groups of topics using cosine similari
 
 A snapshot of one of the hierarchical clustering graphs generated from that can be found below.
 
-Hierarchical BERTopic Cluster ![HC-image]()
+Hierarchical BERTopic Cluster ![HC-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/hClust.png)
 
 
 
