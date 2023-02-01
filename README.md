@@ -34,9 +34,10 @@ Word Cloud
 
 The VADER and TextBlob packages were both utilised to conduct analyses of sentiments found within the reviews. They both work slightly differently but their results were not too dissimilar.
 
-Vader Analysis Results ![Vader-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/VaderPieAnalysis.png)
+Vader Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/VaderPieAnalysis.png" width = "700" height = "500">
 
-TextBlob Analysis Results ![Textblob-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/TextBlobPieAnalysis.png)
+TextBlob Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/TextBlobPieAnalysis.png" width = "700" height = "500">
+
 
 I also analysed the most common emotions expressed within the sentiments and the most common topics discussed within the reviews and generated their results in a word cloud to allow for easy data digestion.
 
