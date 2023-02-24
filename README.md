@@ -41,9 +41,9 @@ TextBlob Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sent
 
 I also analysed the most common emotions expressed within the sentiments and the most common topics discussed within the reviews and generated their results in a word cloud to allow for easy data digestion.
 
-Word Cloud of Most Common Emotions Expressed Within Dataset ![emotions-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/Emotions_WordCloud.png)
+Word Cloud of Most Common Emotions Expressed Within Dataset ![emotions-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/Emotions_WordCloud.png)
 
-Word Cloud of Most Common Topics Discussed Within Dataset ![topics-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/Topics_WordCloud.png)
+Word Cloud of Most Common Topics Discussed Within Dataset ![topics-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/Topics_WordCloud.png)
 
 
 
