@@ -28,15 +28,15 @@ The main EDA I conducted involved using word clouds to inspect the most common w
 
 Word Cloud
 
-![WC1-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/BA_WordCloud.png)
+![WC1-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/BA_WordCloud.png)
 
 ## Sentiment Analysis
 
 The VADER and TextBlob packages were both utilised to conduct analyses of sentiments found within the reviews. They both work slightly differently but their results were not too dissimilar.
 
-Vader Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/VaderPieAnalysis.png" width = "700" height = "500">
+Vader Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/VaderPieAnalysis.png" width = "700" height = "500">
 
-TextBlob Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/TextBlobPieAnalysis.png" width = "700" height = "500">
+TextBlob Analysis Results <img src = "https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/TextBlobPieAnalysis.png" width = "700" height = "500">
 
 
 I also analysed the most common emotions expressed within the sentiments and the most common topics discussed within the reviews and generated their results in a word cloud to allow for easy data digestion.
@@ -56,7 +56,7 @@ This involved clustering the most similar groups of topics using cosine similari
 
 A snapshot of one of the hierarchical clustering graphs generated from that can be found below.
 
-Hierarchical BERTopic Cluster ![HC-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/data/hClust.png)
+Hierarchical BERTopic Cluster ![HC-image](https://github.com/edudzi-mamattah/ba-sentiment-analysis/blob/master/Output_Files/hierarchical-Cluster.png)
 
 
 
